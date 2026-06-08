@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+*.json.bak
+big-query-service-account.json
+.github
